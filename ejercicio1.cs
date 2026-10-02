@@ -58,7 +58,7 @@
 //llamada
 
             v1.ejercicio1(v2, ref v3);
-            textBox8.Text = v3.Descargar();
+          
 
 
 
